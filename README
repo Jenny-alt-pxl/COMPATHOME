@@ -1,0 +1,26 @@
+# CompatHome
+## 📌 This is a web app used in finding compatable living partners based on each individuals preference and character.
+A brief description of what this project is about, what problem it solves, and why it exists.
+## 🚀 Features
+- Easy to use.
+- Simple and clear Structure.
+- Lightweight and efficient.
+## 🛠️ Technologies Used
+- py3
+- Flask(py3) for the backend, HTML, CSS and javascript for the frontend. Docker was used for conternization.
+## ⚙️ Installation
+Steps to install and run the project locally.
+1. Clone the repository:
+git clone https://github.com/username/project-name.git
+2. Navigate into the project folder:
+cd project-name
+3. Install dependencies :
+pip install -r requirements.txt
+## ▶️ Usage
+To run the project, extract the ZIP file, install dependencies using pip install -r requirements.txt, then run python app.py and open http://127.0.0.1:5000/ in browser.
+## 🧪 Testing
+Testing:Test are run using pytest. Navigate to the project directory and execute pytest to run all tests.
+## 👩‍💻 Authors
+**Tembong Jennette Ndip & Bongang Berinyuy Meghen**  
+Email: tembong.jennette@ictuniversity.edu.cm & bongang.meghen@ictuniversity.edu.cm
+GitHub: https://github.com/Jenny-alt-pxl/COMPATHOME.git
